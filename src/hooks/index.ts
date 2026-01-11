@@ -1,0 +1,3 @@
+// ...existing code...
+// Placeholder for library hooks (useId, useLockBodyScroll, etc.)
+export {};
