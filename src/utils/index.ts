@@ -1,3 +1,0 @@
-// ...existing code...
-// Small utility exports would go here (classNames, mergeRefs) — keep minimal to avoid pulling external deps
-export {};
